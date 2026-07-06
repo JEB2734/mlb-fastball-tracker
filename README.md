@@ -7,7 +7,8 @@ Using public Statcast pitch-tracking data, this project extracts raw pitch recor
 
 **🔗 [View the live interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/jared.brown4026/viz/MLBFastballVeloProject/FastballVelocityDashboard)**
 
-![Dashboard preview](dashboard-preview.png)<img width="1419" height="667" alt="Screenshot 2026-07-05 at 8 06 19 PM" src="https://github.com/user-attachments/assets/6f71bf31-7beb-4944-94d0-cd01ba3a0b65" />
+![Dashboard preview](<img width="2818" height="1326" alt="image" src="https://github.com/user-attachments/assets/efa180a7-e40b-4333-bc76-d3532b13017e" />
+)<img width="1419" height="667" alt="Screenshot 2026-07-05 at 8 06 19 PM" src="https://github.com/user-attachments/assets/6f71bf31-7beb-4944-94d0-cd01ba3a0b65" />
 
 ---
 
